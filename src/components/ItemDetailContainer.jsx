@@ -7,7 +7,7 @@ const getTodo = () => {
             if(!error)
                 resolve({ 
                     id:"1",
-                    name:"Dooko"
+                    name:"Producto1"
                 })
             else
                 reject()
